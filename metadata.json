@@ -1,0 +1,6 @@
+{
+  "name": "Schubertgrv",
+  "description": "4-Stem DJ Performance Player with Nothing-inspired glyph aesthetics, Traktor Kontrol F1 tactile workflow, flat material controls, and PWA capability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
